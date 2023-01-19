@@ -1,3 +1,3 @@
-# learning-node-chat-app
+# Node-chat-app
 
 https://harpreetwp-chat-app.herokuapp.com/
